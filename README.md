@@ -7,22 +7,16 @@
 ---
 
 ## 🚀 About Me
-I'm Moussa, but most people call me **Moose**! I’m a Computer Science & Engineering undergraduate who enjoys exploring how things work at every level—from low-level code and APIs to large-scale systems. I like taking things apart, understanding them, and finding better ways to build them back up.
+I’m Moussa (*Moose*), a Computer Science & Engineering undergraduate with a passion for backend engineering and systems design. I first got my start in large-scale development through **Roblox**, where I learned how to build and optimize systems that scale—reaching **millions of users worldwide**.  
 
-I’ve built projects that have reached **over hundreds of millions of users worldwide** 📈, giving me hands-on experience with performance, scalability, and user-focused design. **Roblox** was where I first started building at scale, teaching me how to design engaging systems, optimize backend logic, and support live operations for massive audiences.
+These days, while I continue to develop on the Roblox platform and set new milestones, my interests extend into **cybersecurity and reverse engineering**, where I enjoy tackling *"behind-the-scenes"* challenges that make software faster, more reliable, and more secure.  
 
-While I remain active on the Roblox platform, I’ve also expanded my knowledge into deeper software engineering, with a growing focus on **👾 cybersecurity and reverse engineering 💻**. Since I favor backend engineering, I enjoy tackling the *"behind-the-scenes"* challenges that improve performance, reliability, and security.
-
-💡 A fun fact about me is that I love tinkering with electronics in my free time—whether it’s taking them apart to understand the internals or diving into how their software logic works.  
-
-Here on GitHub, you’ll find my personal projects and contributions that reflect my curiosity, backend-driven approach, and commitment to always learning and growing.
+💡 Fun fact: I love tinkering with electronics in my free time, taking them apart to understand the internals and the logic that drives them.
 
 ---
 
 ## 🛠️ Skills & Interests
-- **Programming Languages**: C++, JavaScript, Java, Lua, Python, C#  
-- **Areas of Focus**: Backend systems engineering, security, large-scale software design  
-- **Interests**: Cybersecurity, reverse engineering, experimental coding projects  
+I'm pretty familiar with **C++, JavaScript/NodeJS, Java, Lua, and Python.** I'm *somewhat* okay at C# and I'm *still trying* with Assmebly lol. Currently focused on backend-systems engineering, security, and large-scale software design with a newfound interest in cybersecurity and reverse engineering!
 
 ---
 
