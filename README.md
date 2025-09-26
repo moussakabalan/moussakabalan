@@ -9,7 +9,7 @@
 ## 🚀 About Me
 I'm Moussa, but most people call me **Moose**! I’m a Computer Science & Engineering undergraduate who enjoys exploring how things work at every level—from low-level code and APIs to large-scale systems. I like taking things apart, understanding them, and finding better ways to build them back up.
 
-I’ve built projects that have reached **over 300 million users worldwide** 📈, giving me hands-on experience with performance, scalability, and user-focused design. **Roblox** was where I first started building at scale, teaching me how to design engaging systems, optimize backend logic, and support live operations for massive audiences.
+I’ve built projects that have reached **over hundreds of millions of users worldwide** 📈, giving me hands-on experience with performance, scalability, and user-focused design. **Roblox** was where I first started building at scale, teaching me how to design engaging systems, optimize backend logic, and support live operations for massive audiences.
 
 While I remain active on the Roblox platform, I’ve also expanded my knowledge into deeper software engineering, with a growing focus on **👾 cybersecurity and reverse engineering 💻**. Since I favor backend engineering, I enjoy tackling the *"behind-the-scenes"* challenges that improve performance, reliability, and security.
 
